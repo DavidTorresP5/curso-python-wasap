@@ -17,4 +17,4 @@ WIP...
 
 ![Variables](img/python-02.png "Variables")
 
-![Variables](img/python-02.png "Variables")
+![Tipos](img/python-03.png "Tipos")
